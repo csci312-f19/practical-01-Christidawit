@@ -1,0 +1,8 @@
+/* eslint-disable no-global-assign, no-underscore-dangle */
+{
+    "extends": "airbnb-base",
+    "env": {
+      "node": true,
+      "jest": true
+    }
+  }
